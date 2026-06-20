@@ -62,7 +62,7 @@ Analysis included:
 ## Dashboard Pages
 
 ### Executive Overview
-![Executive Overview](Screenshots/executive-overview.png)
+![Executive Overview](Screenshots/executive overview.png)
 
 - Overall sales performance
 - Total orders, sales, cost, and profit margin
@@ -71,7 +71,7 @@ Analysis included:
 ---
 
 ### Country Overview
-![Country Overview](Screenshots/country-overview.png)
+![Country Overview](Screenshots/category overview.png)
 
 - Country-specific performance analysis
 - Sales and profit trends
@@ -81,7 +81,7 @@ Analysis included:
 ---
 
 ### Category Overview
-![Category Overview](Screenshots/category-overview.png)
+![Category Overview](Screenshots/category overview.png)
 
 - Category and sub-category level analysis
 - Best-selling products
@@ -90,7 +90,7 @@ Analysis included:
 ---
 
 ### Global Discount Analysis (Year-Based)
-![Global Discount Analysis](screenshots/discount-analysis-global.png)
+![Global Discount Analysis](screenshots/discount analysis global.png)
 
 - Year-based global discount performance
 - Discount group distribution
@@ -100,7 +100,7 @@ Analysis included:
 ---
 
 ### Country-Based Discount Analysis
-![Country Discount Analysis](screenshots/discount-analysis-country.png)
+![Country Discount Analysis](screenshots/discount analysis country.png)
 
 - Country-specific discount performance
 - Discount impact on profit margin
@@ -109,7 +109,7 @@ Analysis included:
 ---
 
 ### Country-Based Discount Analysis
-![Country Discount Analysis](screenshots/discount-analysis-country.png)
+![Country Discount Analysis](screenshots/discount analysis country.png)
 
 - Country-level discount behavior
 - Discount-profit relationship by year
