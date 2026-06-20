@@ -90,7 +90,7 @@ Analysis included:
 ---
 
 ### Global Discount Analysis (Year-Based)
-![Global Discount Analysis](screenshots/discount-analysis-global.png)
+![Global Discount Analysis](Screenshots/discount-analysis-global.png)
 
 - Year-based global discount performance
 - Discount group distribution
@@ -100,19 +100,11 @@ Analysis included:
 ---
 
 ### Country-Based Discount Analysis
-![Country Discount Analysis](screenshots/discount-analysis-country.png)
+![Country Discount Analysis](Screenshots/discount-analysis-country.png)
 
 - Country-specific discount performance
 - Discount impact on profit margin
 - Loss-making discount behavior by country
-
----
-
-### Country-Based Discount Analysis
-![Country Discount Analysis](screenshots/discount-analysis-country.png)
-
-- Country-level discount behavior
-- Discount-profit relationship by year
 
 ---
 
