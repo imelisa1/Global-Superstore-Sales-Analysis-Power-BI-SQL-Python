@@ -130,5 +130,4 @@ The raw dataset is not included in this repository.
 
 This project was developed using the Global Superstore dataset for educational and portfolio purposes.
 
-## Dataset
 Dataset Source: [Global Superstore Dataset](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset) 
