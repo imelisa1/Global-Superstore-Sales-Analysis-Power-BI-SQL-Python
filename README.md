@@ -1,5 +1,7 @@
 # Global Superstore Sales Analysis Dashboard
 
+![Cover](Screenshots/dataset-cover.jpg)
+
 ## Project Overview
 This project presents an end-to-end data analytics workflow using the Global Superstore dataset.
 
